@@ -1,0 +1,14 @@
+#loader {
+  position: fixed;
+  background: rgba(0, 0, 0, 0.4);
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  height: 100vh;
+  align-items: center;
+
+}
+label{
+    margin-bottom: 0.2rem;
+}
